@@ -1,0 +1,35 @@
+/* Add application styles & imports to this file! */
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  color: blueviolet;
+}
+h2 {
+  color: cadetblue;
+}
+
+ul {
+  margin-top: 1em;
+}
+
+li {
+  margin-bottom: 1em;
+}
+
+li li {
+  font-size: 0.8em;
+}
+
+details {
+  font-size: 0.8em;
+  padding: 1em;
+  border: 1px solid #dddddd;
+  margin: 0 0 1em 0;
+}
+
+summary {
+  font-size: 1rem;
+  margin: 0 0 0.7em 0;
+}
